@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { Heart, Gift, Camera, Music, Stars } from 'lucide-react';
-import MomentosEspeciais from './pages/MomentosEspeciais';
-import NossasMemorias from './pages/NossasMemorias';
-import NossaMelodia from './pages/NossaMelodia';
-import NossoFuturo from './pages/NossoFuturo';
+import MomentosEspeciais from './pages/MomentosEspeciais.tsx';
+import NossasMemorias from './pages/NossasMemorias.tsx';
+import NossaMelodia from './pages/NossaMelodia.tsx';
+import NossoFuturo from './pages/NossoFuturo.tsx';
 
 function App() {
   const [currentPhotoIndex, setCurrentPhotoIndex] = useState(0);
