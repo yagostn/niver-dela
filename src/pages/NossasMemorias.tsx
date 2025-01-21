@@ -11,7 +11,7 @@ const NossasMemorias = () => {
       description: "Nossa primeira festa juntos, um momento especial que marca o início de muitas memórias inesquecíveis."
     },
     {
-      url: "/src/assets/img/bike.jpeg",
+      url: "https://cdn.discordapp.com/attachments/1160661772819251301/1331368116969668698/bike.jpeg?ex=67915cae&is=67900b2e&hm=c33a440f0dde819261d8f7a8323b8b90dff8e34d9470efcbbbea33e0c5958edc&",
       title: "Primeira vez que vi o amor da minha vida 🥰",
       date: "15 Outubro 2024",
       description: "O dia em que vi você pela primeira vez foi como se o tempo parasse por um instante, e eu soube que minha vida nunca mais seria a mesma."
