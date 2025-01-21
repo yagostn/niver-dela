@@ -5,19 +5,19 @@ const NossasMemorias = () => {
   // Aqui você pode adicionar mais fotos suas
   const memories = [
     {
-      url: "/src/img/festa.jpeg",
+      url: "/src/assets/img/festa.jpeg",
       title: "Nossa Primeira Festa Juntos 🕺",
       date: "14 Dezembro 2024",
       description: "Nossa primeira festa juntos, um momento especial que marca o início de muitas memórias inesquecíveis."
     },
     {
-      url: "/src/img/bike.jpeg",
+      url: "/src/assets/img/bike.jpeg",
       title: "Primeira vez que vi o amor da minha vida 🥰",
       date: "15 Outubro 2024",
       description: "O dia em que vi você pela primeira vez foi como se o tempo parasse por um instante, e eu soube que minha vida nunca mais seria a mesma."
     },
     {
-      url: "/src/img/agnt.jpeg",
+      url: "/src/assets/img/agnt.jpeg",
       title: "Viagem A Casa De Praia 🏖️",
       date: "23 Dezembro 2024",
       description: "Nossa viagem para casa de praia, onde o som das ondas e o pôr do sol se tornam o cenário perfeito para celebrar nosso amor."

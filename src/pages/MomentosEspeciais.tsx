@@ -5,15 +5,15 @@ const MomentosEspeciais = () => {
   // Aqui você pode adicionar suas próprias fotos
   const photos = [
     {
-      url: "/src/img/igreja.jpeg",
+      url: "/src/assets/img/igreja.jpeg",
       description: "Nosso Primeiro Encontro🙏"
     },
     {
-      url: "/src/img/nos.jpeg",
+      url: "/src/assets/img/nos.jpeg",
       description: "Pedido De Namoro💍"
     },
     {
-      url: "/src/img/flor.jpeg",
+      url: "/src/assets/img/flor.jpeg",
       description: "Demonstração De Amor❤️‍🩹"
     }
   ];

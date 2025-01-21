@@ -11,9 +11,9 @@ function App() {
   const [isVisible, setIsVisible] = useState(false);
 
   const photos = [
-    "/src/img/ela1.jpeg",
-    "/src/img/ela2.jpeg",
-    "/src/img/ela3.jpeg"
+    "/src/assets/img/ela1.jpeg",
+    "/src/assets/img/ela2.jpeg",
+    "/src/assets/img/ela3.jpeg"
   ];
 
   const phrases = [
