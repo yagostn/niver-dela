@@ -11,12 +11,12 @@ function App() {
   const [isVisible, setIsVisible] = useState(false);
 
   const photos = [
-    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321905000551/ela3.jpeg?ex=679400cd&is=6792af4d&hm=cec3cbef07ae14ffe3c5b2035f7071a76bf63b88caaa791a1b793c8989ac620d&",
-    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321905000551/ela3.jpeg?ex=679400cd&is=6792af4d&hm=cec3cbef07ae14ffe3c5b2035f7071a76bf63b88caaa791a1b793c8989ac620d&",
-    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321359740940/ela2.jpeg?ex=679400cd&is=6792af4d&hm=e52d61eeb362e0f43c3026dbbd59efc117572fc5c103db88c66612e4690bf16c&"
+    "https://drive.google.com/file/d/1p7VLpClxwvYbCh9aVBW1QRPE3oGHpjm_/view?usp=sharing",
+    "https://drive.google.com/file/d/1p7VLpClxwvYbCh9aVBW1QRPE3oGHpjm_/view?usp=sharing",
+    "https://drive.google.com/file/d/1lBjtxo66YvoV_R1W115FNlm-JPnZzliB/view?usp=sharing"
   ];
 
-  const phrases = [
+  const phrases = [ 
     "Feliz aniversário, amor! ❤️",
     "Cada momento ao seu lado é especial",
     "Você ilumina meus dias",
