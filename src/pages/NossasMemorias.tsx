@@ -5,19 +5,19 @@ const NossasMemorias = () => {
   // Aqui você pode adicionar mais fotos suas
   const memories = [
     {
-      url: "https://photos.fife.usercontent.google.com/pw/AP1GczORuMtu8pxlpjWe61NDIxIDtBzkvpEUHufyUNmsspsx_M4oqIAj1AWP=w902-h926-s-no-gm?authuser=0",
+      url: "https://ibb.co/pdBJB3M",
       title: "Nossa Primeira Festa Juntos 🕺",
       date: "14 Dezembro 2024",
       description: "Nossa primeira festa juntos, um momento especial que marca o início de muitas memórias inesquecíveis."
     },
     {
-      url: "https://photos.fife.usercontent.google.com/pw/AP1GczMTzmEegPUpgKKFnzzwW-RQ2rFdu1zsxmbhNLD6PsexCEcZSdAL14n4=w695-h926-s-no-gm?authuser=0",
+      url: "https://ibb.co/0VVWf5T",
       title: "Primeira vez que vi o amor da minha vida 🥰",
       date: "15 Outubro 2024",
       description: "O dia em que vi você pela primeira vez foi como se o tempo parasse por um instante, e eu soube que minha vida nunca mais seria a mesma."
     },
     {
-      url: "https://photos.fife.usercontent.google.com/pw/AP1GczOIDOZzQitDIyhqdVA8sBdt-4_unF52ABoYGDJM3GZGQVlEpvwnQ5At=w861-h926-s-no-gm?authuser=0",
+      url: "https://ibb.co/ZNf2rLN",
       title: "Viagem A Casa De Praia 🏖️",
       date: "23 Dezembro 2024",
       description: "Nossa viagem para casa de praia, onde o som das ondas e o pôr do sol se tornam o cenário perfeito para celebrar nosso amor."

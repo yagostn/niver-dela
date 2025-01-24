@@ -5,15 +5,15 @@ const MomentosEspeciais = () => {
   // Aqui você pode adicionar suas próprias fotos
   const photos = [
     {
-      url: "https://photos.fife.usercontent.google.com/pw/AP1GczN2xib2DBmxRdvEie-DiL1WjDqXtZCjlbQhFbOcjcHEhvm8WFCbbNhS=w804-h926-s-no-gm?authuser=0",
+      url: "https://ibb.co/8sx4K1w",
       description: "Nosso Primeiro Encontro🙏"
     },
     {
-      url: "https://photos.fife.usercontent.google.com/pw/AP1GczOh9dCKJLxhE3j127tWxscvM_Qz8lO3P2QqK_upEF6w0M5ri9VfFd7v=w695-h926-s-no-gm?authuser=0",
+      url: "https://ibb.co/j6gpyP4",
       description: "Pedido De Namoro💍"
     },
     {
-      url: "https://photos.fife.usercontent.google.com/pw/AP1GczO7XDfjsXRBKfIeEsYerBPB-DK5hI_c_xoAgeGvvmJq-n11jSP92kj7=w902-h926-s-no-gm?authuser=0",
+      url: "https://ibb.co/rs0PwY9",
       description: "Demonstração De Amor❤️‍🩹"
     }
   ];

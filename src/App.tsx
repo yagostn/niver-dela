@@ -11,9 +11,9 @@ function App() {
   const [isVisible, setIsVisible] = useState(false);
 
   const photos = [
-    "https://drive.google.com/file/d/1p7VLpClxwvYbCh9aVBW1QRPE3oGHpjm_/view?usp=sharing",
-    "https://drive.google.com/file/d/1p7VLpClxwvYbCh9aVBW1QRPE3oGHpjm_/view?usp=sharing",
-    "https://drive.google.com/file/d/1lBjtxo66YvoV_R1W115FNlm-JPnZzliB/view?usp=sharing"
+    "https://ibb.co/cQ8HMtb",
+    "https://ibb.co/6Jdn8qS",
+    "https://ibb.co/QbGBshd"
   ];
 
   const phrases = [ 
