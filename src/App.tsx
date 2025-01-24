@@ -11,9 +11,9 @@ function App() {
   const [isVisible, setIsVisible] = useState(false);
 
   const photos = [
-    "https://photos.fife.usercontent.google.com/pw/AP1GczNhLRrSmqI2K6wDEj2SR0wk4BoaSNDsyT9cbeAnK8dC6MO9xdmMce9G=w182-h214-no?authuser=0",
-    "https://photos.fife.usercontent.google.com/pw/AP1GczOVjuXTmZCR1m2_mHAy6raDJUQf6t5edgWTC053xN1UhH75wa8NlA9m=w720-h693-s-no-gm?authuser=0",
-    "https://photos.fife.usercontent.google.com/pw/AP1GczNVMY_XW64GEXUA2MqBXQVOQUDBw5ecZL523Z7rj9wV-ayMxD2JcyUz=w695-h926-s-no-gm?authuser=0"
+    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321905000551/ela3.jpeg?ex=679400cd&is=6792af4d&hm=cec3cbef07ae14ffe3c5b2035f7071a76bf63b88caaa791a1b793c8989ac620d&",
+    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321905000551/ela3.jpeg?ex=679400cd&is=6792af4d&hm=cec3cbef07ae14ffe3c5b2035f7071a76bf63b88caaa791a1b793c8989ac620d&",
+    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321359740940/ela2.jpeg?ex=679400cd&is=6792af4d&hm=e52d61eeb362e0f43c3026dbbd59efc117572fc5c103db88c66612e4690bf16c&"
   ];
 
   const phrases = [
@@ -21,7 +21,7 @@ function App() {
     "Cada momento ao seu lado é especial",
     "Você ilumina meus dias",
     "Te amo mais a cada dia que passa"
-  ];
+  ];  
 
   useEffect(() => {
     setIsVisible(true);
