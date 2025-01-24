@@ -5,15 +5,15 @@ const MomentosEspeciais = () => {
   // Aqui você pode adicionar suas próprias fotos
   const photos = [
     {
-      url: "https://ibb.co/8sx4K1w",
+      url: "https://imgbox.com/sk8cCD3r",
       description: "Nosso Primeiro Encontro🙏"
     },
     {
-      url: "https://ibb.co/j6gpyP4",
+      url: "https://imgbox.com/q5yvfyK1",
       description: "Pedido De Namoro💍"
     },
     {
-      url: "https://ibb.co/rs0PwY9",
+      url: "https://imgbox.com/1RyyTatM",
       description: "Demonstração De Amor❤️‍🩹"
     }
   ];

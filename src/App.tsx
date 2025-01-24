@@ -11,9 +11,9 @@ function App() {
   const [isVisible, setIsVisible] = useState(false);
 
   const photos = [
-    "https://ibb.co/cQ8HMtb",
-    "https://ibb.co/6Jdn8qS",
-    "https://ibb.co/QbGBshd"
+    "https://imgbox.com/JoidW2sa",
+    "https://imgbox.com/e5BKHP2v",
+    "https://imgbox.com/69amtoJW"
   ];
 
   const phrases = [ 
