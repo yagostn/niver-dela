@@ -11,9 +11,9 @@ function App() {
   const [isVisible, setIsVisible] = useState(false);
 
   const photos = [
-    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321359740940/ela2.jpeg?ex=67915dcd&is=67900c4d&hm=b766cf214d6597754f8219c31d1d5336ac5079efc60a77c1f7f8b0b351cd869b&",
-    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321615589436/ela1.jpeg?ex=67915dcd&is=67900c4d&hm=e9419e8d4506dca4c867479aa9c4a5348191a9ccd6e57b4a9adc68712a7a4689&",
-    "https://cdn.discordapp.com/attachments/1331369087095537780/1331369321905000551/ela3.jpeg?ex=67915dcd&is=67900c4d&hm=d45811e61e7fc4dd4ee4585ce317ef074952fc42682885555435e138d1683afb&"
+    "https://photos.fife.usercontent.google.com/pw/AP1GczNhLRrSmqI2K6wDEj2SR0wk4BoaSNDsyT9cbeAnK8dC6MO9xdmMce9G=w182-h214-no?authuser=0",
+    "https://photos.fife.usercontent.google.com/pw/AP1GczOVjuXTmZCR1m2_mHAy6raDJUQf6t5edgWTC053xN1UhH75wa8NlA9m=w720-h693-s-no-gm?authuser=0",
+    "https://photos.fife.usercontent.google.com/pw/AP1GczNVMY_XW64GEXUA2MqBXQVOQUDBw5ecZL523Z7rj9wV-ayMxD2JcyUz=w695-h926-s-no-gm?authuser=0"
   ];
 
   const phrases = [

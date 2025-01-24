@@ -5,15 +5,15 @@ const MomentosEspeciais = () => {
   // Aqui você pode adicionar suas próprias fotos
   const photos = [
     {
-      url: "https://cdn.discordapp.com/attachments/1331369087095537780/1331369320990638161/igreja.jpeg?ex=67915dcd&is=67900c4d&hm=35427a6f366a746bd82b4af86364ac6e0e2ec0e1d3dc52349ef737996689fde9&",
+      url: "https://photos.fife.usercontent.google.com/pw/AP1GczN2xib2DBmxRdvEie-DiL1WjDqXtZCjlbQhFbOcjcHEhvm8WFCbbNhS=w804-h926-s-no-gm?authuser=0",
       description: "Nosso Primeiro Encontro🙏"
     },
     {
-      url: "https://cdn.discordapp.com/attachments/1331369087095537780/1331369320529530903/nos.jpeg?ex=67915dcd&is=67900c4d&hm=9764098da6fdbfd366bacbacad19e92acb7d3f8d5b92c6a100525899b7d5aeb2&",
+      url: "https://photos.fife.usercontent.google.com/pw/AP1GczOh9dCKJLxhE3j127tWxscvM_Qz8lO3P2QqK_upEF6w0M5ri9VfFd7v=w695-h926-s-no-gm?authuser=0",
       description: "Pedido De Namoro💍"
     },
     {
-      url: "https://cdn.discordapp.com/attachments/1331369087095537780/1331369319480692817/flor.jpeg?ex=67915dcd&is=67900c4d&hm=89077ffb9e1e055bbc449f616a74d52d95405ee15295bd29f860c885f3dcb523&",
+      url: "https://photos.fife.usercontent.google.com/pw/AP1GczO7XDfjsXRBKfIeEsYerBPB-DK5hI_c_xoAgeGvvmJq-n11jSP92kj7=w902-h926-s-no-gm?authuser=0",
       description: "Demonstração De Amor❤️‍🩹"
     }
   ];

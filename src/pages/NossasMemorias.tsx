@@ -5,19 +5,19 @@ const NossasMemorias = () => {
   // Aqui você pode adicionar mais fotos suas
   const memories = [
     {
-      url: "https://cdn.discordapp.com/attachments/1331369087095537780/1331369318549553263/festa.jpeg?ex=67915dcd&is=67900c4d&hm=1611b2f5b21e7ac15c6cb84e2717549a40b0fb922cab541fb4ab970b525b6655&",
+      url: "https://photos.fife.usercontent.google.com/pw/AP1GczORuMtu8pxlpjWe61NDIxIDtBzkvpEUHufyUNmsspsx_M4oqIAj1AWP=w902-h926-s-no-gm?authuser=0",
       title: "Nossa Primeira Festa Juntos 🕺",
       date: "14 Dezembro 2024",
       description: "Nossa primeira festa juntos, um momento especial que marca o início de muitas memórias inesquecíveis."
     },
     {
-      url: "https://cdn.discordapp.com/attachments/1160661772819251301/1331368116969668698/bike.jpeg?ex=67915cae&is=67900b2e&hm=c33a440f0dde819261d8f7a8323b8b90dff8e34d9470efcbbbea33e0c5958edc&",
+      url: "https://photos.fife.usercontent.google.com/pw/AP1GczMTzmEegPUpgKKFnzzwW-RQ2rFdu1zsxmbhNLD6PsexCEcZSdAL14n4=w695-h926-s-no-gm?authuser=0",
       title: "Primeira vez que vi o amor da minha vida 🥰",
       date: "15 Outubro 2024",
       description: "O dia em que vi você pela primeira vez foi como se o tempo parasse por um instante, e eu soube que minha vida nunca mais seria a mesma."
     },
     {
-      url: "https://cdn.discordapp.com/attachments/1331369087095537780/1331369351659524187/agnt.jpeg?ex=67915dd5&is=67900c55&hm=8885552f8ba0b915f1a60dd2c040c4abbe1e8610b6e3a09d81f098570e32583f&",
+      url: "https://photos.fife.usercontent.google.com/pw/AP1GczOIDOZzQitDIyhqdVA8sBdt-4_unF52ABoYGDJM3GZGQVlEpvwnQ5At=w861-h926-s-no-gm?authuser=0",
       title: "Viagem A Casa De Praia 🏖️",
       date: "23 Dezembro 2024",
       description: "Nossa viagem para casa de praia, onde o som das ondas e o pôr do sol se tornam o cenário perfeito para celebrar nosso amor."
